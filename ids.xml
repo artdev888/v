@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="id" name="camera_kit_lens_loading_overlay_view" />
+    <item type="id" name="camera_kit_lenses_touch_view" />
+    <item type="id" name="camerakit_behind_carousel_view" />
+    <item type="id" name="camerakit_behind_carousel_view_stub" />
+    <item type="id" name="camerakit_default_above_carousel_widgets_view" />
+    <item type="id" name="camerakit_default_above_carousel_widgets_view_stub" />
+    <item type="id" name="camerakit_hint_view" />
+    <item type="id" name="camerakit_hint_view_stub" />
+    <item type="id" name="camerakit_in_front_carousel_view" />
+    <item type="id" name="camerakit_in_front_carousel_view_stub" />
+    <item type="id" name="camerakit_lens_loading_overlay_view_stub" />
+    <item type="id" name="camerakit_lenses_carousel_view" />
+    <item type="id" name="camerakit_lenses_carousel_view_stub" />
+    <item type="id" name="camerakit_lenses_gesture_view" />
+    <item type="id" name="camerakit_lenses_text_input_view" />
+    <item type="id" name="camerakit_lenses_view" />
+    <item type="id" name="camerakit_lenses_viewstub" />
+    <item type="id" name="camerakit_preview" />
+    <item type="id" name="camerakit_preview_viewstub" />
+    <item type="id" name="camerakit_touch_view_stub" />
+    <item type="id" name="legal_pre_prompt_variant_g_accept" />
+    <item type="id" name="legal_pre_prompt_variant_g_layout" />
+    <item type="id" name="legal_pre_prompt_variant_g_negative" />
+    <item type="id" name="legal_pre_prompt_variant_g_neutral" />
+    <item type="id" name="legal_pre_prompt_variant_g_title" />
+    <item type="id" name="legal_prompt_accept" />
+    <item type="id" name="legal_prompt_close" />
+    <item type="id" name="legal_prompt_ghostface" />
+    <item type="id" name="legal_prompt_header" />
+    <item type="id" name="legal_prompt_layout" />
+    <item type="id" name="legal_prompt_summary" />
+    <item type="id" name="legal_prompt_title" />
+    <item type="id" name="lens_loading_overlay_view" />
+</resources>
