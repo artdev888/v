@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.snap.camerakit.common.MotionEventSplitFixFrameLayout android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <ViewStub android:id="@id/camerakit_preview_viewstub" android:inflatedId="@id/camerakit_preview" android:layout_width="fill_parent" android:layout_height="fill_parent" />
+    <ViewStub android:id="@id/camerakit_lenses_viewstub" android:inflatedId="@id/camerakit_lenses_view" android:layout_width="fill_parent" android:layout_height="fill_parent" />
+</com.snap.camerakit.common.MotionEventSplitFixFrameLayout>

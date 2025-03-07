@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="camera_kit_camera_lenses_carousel_widget_margin">16.0dip</dimen>
+    <dimen name="camera_kit_default_gap">8.0dip</dimen>
+    <dimen name="camera_kit_default_gap_2x">16.0dip</dimen>
+    <dimen name="camera_kit_lens_hint_text_size">20.0sp</dimen>
+    <dimen name="camera_kit_lens_hint_view_size_margin">30.0dip</dimen>
+    <dimen name="camera_kit_lens_loading_overlay_text_size">17.0sp</dimen>
+    <dimen name="camera_kit_lens_ui_composite_view_bottom_padding">27.0dip</dimen>
+    <dimen name="deprecated_v11_button4_text_size">12.0sp</dimen>
+    <dimen name="deprecated_v11_heading3_text_size">13.0sp</dimen>
+    <dimen name="deprecated_v11_heading5_text_size">18.0sp</dimen>
+    <dimen name="deprecated_v11_subtitle1_text_size">12.0sp</dimen>
+    <dimen name="deprecated_v11_subtitle3_text_size">14.0sp</dimen>
+    <dimen name="deprecated_v11_subtitle4_text_size">10.0sp</dimen>
+    <dimen name="icon_size_extra_smaller">18.0dip</dimen>
+    <dimen name="v11_action_mode_actionbar_small_label_font_size">10.0sp</dimen>
+</resources>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="drawable" name="holo_textfield_black">@drawable/camera_kit_empty</item>
+    <item type="drawable" name="holo_textfield_black_disabled">@drawable/camera_kit_empty</item>
+    <item type="drawable" name="holo_textfield_blue">@drawable/camera_kit_empty</item>
+    <item type="drawable" name="holo_textfield_blue_disabled">@drawable/camera_kit_empty</item>
+    <item type="drawable" name="snappables_start_button_highlight">@drawable/camera_kit_empty</item>
+    <item type="drawable" name="start_button_foreground">@drawable/camera_kit_empty</item>
+    <item type="drawable" name="svg_down_arrow_32x32">@drawable/camera_kit_empty</item>
+    <item type="drawable" name="svg_right_arrow_32x32">@drawable/camera_kit_empty</item>
+</resources>
